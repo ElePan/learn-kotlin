@@ -1,4 +1,4 @@
-package day2.`3-objectOriented`
+package day2.`4-objectOriented`
 
 //top level functions:all package can see them
 
